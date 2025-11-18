@@ -47,11 +47,6 @@ O projeto foi desenvolvido 100% no ecossistema Microsoft Power BI, aplicando as 
     * Uso de tema escuro para destaque das informações.
     * Formatação condicional e alinhamento preciso dos elementos.
 
-## 🚀 Como visualizar este projeto
-
-1.  **Opção 1 (Arquivo Fonte):** Baixe o arquivo `PowerBi 1.pbix` deste repositório e abra-o no Microsoft Power BI Desktop.
-2.  **Opção 2 (PDF Estático):** Veja o arquivo `.pdf` exportado (caso tenha anexado) para uma visualização rápida.
-
 ---
 *Desenvolvido por Bruno Lemos*
 *Dúvidas ou sugestões? Entre em contato via [LinkedIn](www.linkedin.com/in/bruno-lemos-dados)*
